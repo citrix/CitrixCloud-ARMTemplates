@@ -1,0 +1,45 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vmName": {
+      "value": ""
+    },
+    "vmAdminUsername": {
+      "value": ""
+    },
+    "vmAdminPassword": {
+      "value": ""
+    },
+    "domainName": {
+      "value": ""
+    },
+    "domainJoinUsername": {
+      "value": ""
+    },
+    "domainJoinPassword": {
+      "value": ""
+    },
+    "vnetResourceGroupName": {
+      "value": ""
+    },
+    "existingVNETName": {
+      "value": ""
+    },
+    "existingSubnetName": {
+      "value": ""
+    },
+    "citrixCloudAPIKey": {
+      "value": ""
+    },
+    "citrixCloudAPISecret": {
+      "value": ""
+    },
+    "citrixCloudCustomerId": {
+      "value": ""
+    },
+    "citrixCloudResourceLocationName": {
+      "value": ""
+    }
+  }
+}

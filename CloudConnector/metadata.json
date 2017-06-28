@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy Citrix Cloud Connector",
+  "description": "This template creates Citrix Cloud Connector machines, joins the machines to your existing Windows Server domain on your virtual network, and associates the machines with an existing Citrix Cloud Resource Location.  Contact your Citrix Cloud administrator for the API user, key, customer Id, and resource location name.",
+  "summary": "This template creates Citrix Cloud Connector machines in your Azure subscription and joins them to Citrix Cloud.",
+  "githubUsername": "brianehlert",
+  "dateUpdated": "2017-06-28"
+}
