@@ -21,6 +21,6 @@ Be sure that you DO NOT select any resource group where you will be provisioning
 <a href="https://portal.microsoftazure.de/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcitrix%2FCitrixCloud-ARMTemplates%2Fmaster%2FCloudConnector%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/AzureDe.png" alt="Azure Germany"/>
 </a>
-<a href="http://armviz.io/#/?load=https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcitrix%2FCitrixCloud-ARMTemplates%2Fmaster%2FCloudConnector%2Fazuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fcitrix%2FCitrixCloud-ARMTemplates%2Fmaster%2FCloudConnector%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>

@@ -26,14 +26,14 @@
       "type": "string",
       "minLength": 4,
       "metadata": {
-        "description": "the DNS name of the domain the machine will join"
+        "description": "the DNS name of the domain the machine will join."
       }
     },
     "domainJoinUsername": {
       "type": "string",
       "minLength": 1,
       "metadata": {
-        "description": "username that will join the machine to the domain"
+        "description": "username that will join the machine to the domain.  This should only be the username and not include the name of the domain in any way."
       }
     },
     "domainJoinPassword": {
