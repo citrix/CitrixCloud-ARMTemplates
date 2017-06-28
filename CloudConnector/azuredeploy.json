@@ -97,7 +97,7 @@
     "networkSecurityGroup": "[concat(parameters('vmName'),'-nsg')]",
     "availabilitySetPlatformUpdateDomainCount": 5,
     "availabilitySetPlatformFaultDomainCount": 3,
-    "installScriptDownloadUrl": "https://raw.githubusercontent.com/brianehlert/CitrixCloudQuickStart/master/CloudConnector/scripts/DeployCitrixCloudConnector.ps1",
+    "installScriptDownloadUrl": "https://raw.githubusercontent.com/citrix/CitrixCloud-ARMTemplates/master/CloudConnector/scripts/DeployCitrixCloudConnector.ps1",
     "citrixResourceLocation": "[concat('\"', trim(parameters('citrixCloudResourceLocation')), '\"')]",
     "scriptParameters": "[concat(' -CustomerId ', trim(parameters('citrixCloudCustomerId')), ' -APIClientID ', trim(parameters('citrixCloudAPIKey')), ' -APIClientSecret ', trim(parameters('citrixCloudAPISecret')), ' -ResourceLocation ', variables('citrixResourceLocation'))]"
   },
