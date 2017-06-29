@@ -26,3 +26,13 @@ Be sure that you DO NOT select any resource group where you will be provisioning
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fcitrix%2FCitrixCloud-ARMTemplates%2Fmaster%2FCloudConnector%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
+
+Before you begin, get the necessary information from Citrix Cloud:
+
+Resource Location: the connection to your resources is defined as a Resource Location in Citrix Cloud. An existing Resource Location needs to be defined that this Connector will link to. 
+For more details on resources locations, including what they provide and where they should be located see: http://docs.citrix.com/en-us/citrix-cloud/overview/about/what-are-resource-locations.html
+
+Secure Client Connection: A secure client connection consists of a Client API Id and Client API Secret and is required to interact with Citrix Cloud APIs. 
+It can be created on the API Access page under Identity and Access Management in Citrix Cloud.
+
+Citrix Cloud Customer ID: This can be found on the page where you create the API ID and secret.
