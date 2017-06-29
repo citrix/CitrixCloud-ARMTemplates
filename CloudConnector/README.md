@@ -1,5 +1,7 @@
 Deploy a Citrix Cloud Connector to an existing Domain
 
+This template is in prototype.  If it is useful to you, that is excellent.  If it does not meet your scenarios, help us make it better or submit an issue.
+
 This template is designed to provision Cloud Connector instances within an availability set.
 Provide the necessary details from Citrix Cloud to link these instances to a specific Citrix Cloud Resource Location.
 
