@@ -39,7 +39,7 @@
     },
     "sessionWorkerSubnetIpRange": {
       "type": "string",
-      "defaultValue": "172.16.1.0/24",
+      "defaultValue": "172.16.1.0/22",
       "metadata": {
         "description": "session worker machine subnet prefix"
       }
@@ -53,7 +53,7 @@
     },
     "desktopWorkerSubnetIpRange": {
       "type": "string",
-      "defaultValue": "172.16.3.0/24",
+      "defaultValue": "172.16.5.0/20",
       "metadata": {
         "description": "Desktop worker machine subnet Prefix"
       }
