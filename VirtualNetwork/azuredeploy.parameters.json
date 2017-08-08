@@ -18,13 +18,13 @@
       "value": "session"
     },
     "sessionWorkerSubnetIpRange": {
-      "value": "172.16.1.0/24"
+      "value": "172.16.1.0/22"
     },
     "desktopWorkerSubnetName": {
       "value": "desktop"
     },
     "desktopWorkerSubnetIpRange": {
-      "value": "172.16.3.0/24"
+      "value": "172.16.5.0/20"
     }
   }
 }
