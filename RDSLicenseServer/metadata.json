@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy RDS License Server",
+  "description": "This template a single RDS License Server machine, joins the machine to your existing Windows Server domain on your virtual network, You are still required to logon, activate, and allocate licenses to this license server",
+  "summary": "This template creates an RDS License Server machine in your Azure subscription.",
+  "githubUsername": "brianehlert",
+  "dateUpdated": "2017-08-15"
+}
